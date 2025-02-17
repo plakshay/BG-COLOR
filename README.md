@@ -1,1 +1,1 @@
-![alt text](./src/assets/bg.png)
+![alt text](vite-project/src/assets/bg.png)
